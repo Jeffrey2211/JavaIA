@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+h1 {
+color: red;
+font: 36px Helvetica, Arial, sans-serif;
+}
+
+
+.testoverde {color: green;}
+
+p.moltogrande {font-size:xxx-large;}
+
+h2.moltogrande {font-size:medium;}
+
+#mioid {font-style: italic;}
+
