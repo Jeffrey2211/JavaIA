@@ -8,52 +8,52 @@ Benvenuto nel repository dei miei progetti Java e Web realizzati durante il cors
 
 | Progetto | Link |
 |:--------:|:----:|
-| **JLAI01** | [Scarica ZIP](#) |
-| **JLAI02** | [Scarica ZIP](#) |
-| **JLAI03** | [Scarica ZIP](#) |
-| **JLAI04** | [Scarica ZIP](#) |
-| **JLAI05** | [Scarica ZIP](#) |
-| **JLAI06** | [Scarica ZIP](#) |
-| **JLAI07** | [Scarica ZIP](#) |
-| **JLAI08** | [Scarica ZIP](#) |
-| **JLAI09** | [Scarica ZIP](#) |
-| **JLAI10** | [Scarica ZIP](#) |
-| **JLAI11** | [Scarica ZIP](#) |
-| **JLAI12** | [Scarica ZIP](#) |
-| **JLAI13** | [Scarica ZIP](#) |
-| **JLAI14** | [Scarica ZIP](#) |
-| **JLAI15** | [Scarica ZIP](#) |
-| **JLAI16** | [Scarica ZIP](#) |
-| **JLAI17** | [Scarica ZIP](#) |
-| **JLAI18** | [Scarica ZIP](#) |
-| **JLAI19** | [Scarica ZIP](#) |
-| **JLAI20** | [Scarica ZIP](#) |
-| **JLAI21** | [Scarica ZIP](#) |
-| **JLAI22** | [Scarica ZIP](#) |
-| **JLAI23** | [Scarica ZIP](#) |
-| **JLAI24** | [Scarica ZIP](#) |
-| **JLAI25** | [Scarica ZIP](#) |
-| **JLAI26** | [Scarica ZIP](#) |
-| **JLAI27** | [Scarica ZIP](#) |
-| **JLAI28** | [Scarica ZIP](#) |
-| **JLAI29** | [Scarica ZIP](#) |
-| **JLAI30** | [Scarica ZIP](#) |
-| **JLAI31** | [Scarica ZIP](#) |
-| **JLAI32** | [Scarica ZIP](#) |
-| **JLAI33** | [Scarica ZIP](#) |
-| **JLAI34** | [Scarica ZIP](#) |
-| **JLAI35** | [Scarica ZIP](#) |
-| **JLAI36** | [Scarica ZIP](#) |
-| **JLAI37** | [Scarica ZIP](#) |
-| **JLAI38** | [Scarica ZIP](#) |
-| **JLAI39** | [Scarica ZIP](#) |
-| **JLAI40** | [Scarica ZIP](#) |
-| **JLAI41** | [Scarica ZIP](#) |
-| **JLAI42** | [Scarica ZIP](#) |
-| **JLAI43** | [Scarica ZIP](#) |
-| **JLAI44** | [Scarica ZIP](#) |
-| **JLAI45** | [Scarica ZIP](#) |
-| **JLAI46** | [Scarica ZIP](#) |
+| **JLAI01** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI01) |
+| **JLAI02** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI02) |
+| **JLAI03** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI03) |
+| **JLAI04** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI04) |
+| **JLAI05** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI05) |
+| **JLAI06** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI06) |
+| **JLAI07** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI07) |
+| **JLAI08** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI08) |
+| **JLAI09** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI09) |
+| **JLAI10** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI10) |
+| **JLAI11** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI11) |
+| **JLAI12** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI12) |
+| **JLAI13** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI13) |
+| **JLAI14** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI14) |
+| **JLAI15** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI15) |
+| **JLAI16** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI16) |
+| **JLAI17** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI17) |
+| **JLAI18** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI18) |
+| **JLAI19** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI19) |
+| **JLAI20** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI20) |
+| **JLAI21** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI21) |
+| **JLAI22** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI22) |
+| **JLAI23** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI23) |
+| **JLAI24** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI24) |
+| **JLAI25** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI25) |
+| **JLAI26** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI26) |
+| **JLAI27** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI27) |
+| **JLAI28** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI28) |
+| **JLAI29** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI29) |
+| **JLAI30** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI30) |
+| **JLAI31** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI31) |
+| **JLAI32** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI32) |
+| **JLAI33** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI33) |
+| **JLAI34** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI34) |
+| **JLAI35** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI35) |
+| **JLAI36** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI36) |
+| **JLAI37** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI37) |
+| **JLAI38** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI38) |
+| **JLAI39** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI39) |
+| **JLAI40** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI40) |
+| **JLAI41** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI41) |
+| **JLAI42** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI42) |
+| **JLAI43** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI43) |
+| **JLAI44** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI44) |
+| **JLAI45** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI45) |
+| **JLAI46** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLAI46) |
 
 ---
 
@@ -61,15 +61,15 @@ Benvenuto nel repository dei miei progetti Java e Web realizzati durante il cors
 
 | Progetto | Link |
 |:--------:|:----:|
-| **JLWEB01** | [Scarica ZIP](#) |
-| **JLWEB02** | [Scarica ZIP](#) |
-| **JLWEB03** | [Scarica ZIP](#) |
-| **JLWEB04** | [Scarica ZIP](#) |
-| **JLWEB05** | [Scarica ZIP](#) |
-| **JLWEB06** | [Scarica ZIP](#) |
-| **JLWEB07** | [Scarica ZIP](#) |
-| **JLWEB08** | [Scarica ZIP](#) |
-| **JLWEB09** | [Scarica ZIP](#) |
+| **JLWEB01** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB01) |
+| **JLWEB02** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB02) |
+| **JLWEB03** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB03) |
+| **JLWEB04** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB04) |
+| **JLWEB05** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB05) |
+| **JLWEB06** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB06) |
+| **JLWEB07** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB07) |
+| **JLWEB08** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB08) |
+| **JLWEB09** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB09) |
 
 ---
 
