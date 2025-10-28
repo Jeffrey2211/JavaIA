@@ -1,0 +1,55 @@
+Mostra tutti gli iscritti al corso con ID 2.
+Quali sono i docenti del corso 3?
+Qual'è la somma delle fatture per il cliente (utente o iscritti)  = 1?
+Mostra i feedback dei corsi successivi a quello codice 1
+A quali progetti ha partecipato il cliente 2?
+Mostra gli iscritti al corso 1
+
+
+
+Mostra tutti gli iscritti al corso
+
+SELECT u.UTENTI, i.STATO, i.DATAISCRIZIONE
+FROM utenti u
+INNER JOIN iscrizioni i ON u.IDutenti = i.IDiscrizioni
+WHERE i.IDiscrizioni = 2;
+
+Quali sono i docenti del corso
+
+SELECT d.EMAIL, d.SPECIALIZZAZIONE
+FROM docenti d
+INNER JOIN corsi c ON d.IDdocenti = c.DOCENTI
+WHERE c.IDcorsi = 3;
+
+Somma delle fatture per il cliente
+
+SELECT SUM(f.IMPORTO) AS totale_fatture
+FROM fatture f
+INNER JOIN clienti c ON f.IDfatture = c.FATTURE
+WHERE c.FATTURE = 1;
+
+A quali progetti ha partecipato il cliente
+
+SELECT p.PROGETTO
+FROM progetti p
+WHERE p.PROGETTO = 2;
+
+
+Mostra gli iscritti al corso
+
+SELECT u.FEEDBACK, u.RUOLO, i.DATAISCRIZIONE
+FROM utenti u
+INNER JOIN iscrizioni i ON u.FEEDBACK = i.UTENTI
+WHERE i.UTENTI = 1;
+
+Mostra i feedback dei corsi successivi
+
+SELECT fb.COMMENTO, fb.VOTO, fb.TIPO, fb.DATAFEEEDBACK,
+       u.FEEDBACK AS utente,
+       d.ACCESSI AS docente,
+       c.PREZZO AS corso
+FROM feedback fb
+INNER JOIN utenti u ON fb.TIPO = u.RUOLO
+INNER JOIN docenti d ON fb.VOTO = d.SPECIALIZZAZIONE
+INNER JOIN corsi c ON fb.DATAFEEEDBACK = c.DURATA
+WHERE fb.VOTO > 1;

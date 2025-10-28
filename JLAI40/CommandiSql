@@ -1,0 +1,60 @@
+Commandi SQL
+INSERT (Selezionare campi)
+VALUE (Inserire ogni valore per ogni campo specificato)
+
+Esempio:
+INSERT INTO Elenco 
+(NOME, COGNOME, PATRIMONIO, EXTRACOMUNITARIO, MANSIONE, DATANASCITA)
+VALUES 
+('Jeffrey', 'Forcella', 4000.00, 0, 'Developer', '1992-11-22');
+
+
+Commandi SQL
+UPDATE
+SET
+WHERE
+
+Esempio:
+UPDATE Elenco
+SET PATRIMONIO = 6000.00, MANSIONE = 'Senior Developer'
+WHERE COGNOME = 'Forcella';
+
+Commandi SQL
+DELETE FROM (Da dove)
+WHERE (Elementi da eliminare)
+
+Esempio:
+DELETE FROM Elenco
+WHERE NOME = 'Jeffrey' AND COGNOME = 'Forcella';
+
+Commandi SQL
+SELECT (Cosa selezionare) FROM (Da dove)
+WHERE
+ORDER BY
+
+Esempi:
+SELECT * FROM Elenco;
+
+SELECT NOME, COGNOME, MANSIONE FROM Elenco;
+
+SELECT * FROM Elenco ORDER BY COGNOME;   -- crescente (default)
+
+SELECT * FROM Elenco ORDER BY COGNOME ASC;  -- uguale al precedente
+
+SELECT * FROM Elenco ORDER BY COGNOME DESC; -- decrescente
+
+SELECT MANSIONE SUM(PATRIMONIO) AS sommatutti
+FROM Elenco
+WHERE PATRIMONIIO > 0
+GROUP BY MANSIONE
+HAVING sommatutti > 5000
+ORDER BY NOME;
+
+Commandi SQL
+SELECT (Cosa selezionare) FROM (Da dove)
+INNER JOIN
+ON
+
+Esempi:
+SELECT Elenco.NOME, Elenco.COGNOME, Mansioni.MANSIONE, sedi.NOME
+FROM Mansioni INNER JOIN Elenco ON Masioni.ID + Elenco.IDMANSIONE) INNER JOIN Sedi ON Sedi.ID = Elenco.INSEDE 
