@@ -4,6 +4,14 @@ Benvenuto nel repository dei miei progetti Java e Web realizzati durante il cors
 
 ---
 
+## Come eseguire
+
+1. Scarica il progetto desiderato.
+2. Apri con il tuo IDE preferito (IntelliJ, Eclipse, VS Code).
+3. Esegui la classe principale.
+
+---
+
 ## Progetti Java (**JLAI**)
 
 | Progetto | Link |
@@ -70,11 +78,3 @@ Benvenuto nel repository dei miei progetti Java e Web realizzati durante il cors
 | **JLWEB07** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB07) |
 | **JLWEB08** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB08) |
 | **JLWEB09** | [Apri su GitHub](https://github.com/Jeffrey2211/JavaIA/tree/main/JLWEB09) |
-
----
-
-## Come eseguire
-
-1. Scarica il progetto desiderato.
-2. Apri con il tuo IDE preferito (IntelliJ, Eclipse, VS Code).
-3. Esegui la classe principale.
