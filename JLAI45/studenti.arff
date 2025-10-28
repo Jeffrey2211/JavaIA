@@ -1,0 +1,40 @@
+@relation studenti
+
+@attribute ore_studio numeric
+@attribute frequenza_percentuale numeric
+@attribute partecipazione {alta, media, bassa}
+@attribute voto_medio numeric
+@attribute interesse_materia {alto, medio, basso}
+@attribute tipo_studente {eccellente, buono, sufficiente, scarso}
+
+@data
+12,95,alta,9.2,alto,eccellente
+8,80,media,7.5,medio,buono
+5,60,bassa,6.0,basso,sufficiente
+2,40,bassa,4.5,basso,scarso
+10,90,alta,8.5,alto,eccellente
+6,70,media,6.8,medio,buono
+3,50,bassa,5.2,basso,scarso
+9,85,alta,8.9,alto,eccellente
+7,75,media,7.0,medio,buono
+4,55,bassa,5.8,basso,sufficiente
+11,92,alta,9.0,alto,eccellente
+6,65,media,6.5,medio,buono
+2,35,bassa,4.2,basso,scarso
+5,60,media,6.0,medio,sufficiente
+8,82,alta,8.0,alto,buono
+3,45,bassa,5.0,basso,scarso
+10,88,alta,8.7,alto,eccellente
+7,72,media,7.2,medio,buono
+4,58,bassa,5.5,basso,sufficiente
+1,30,bassa,3.8,basso,scarso
+9,86,alta,8.8,alto,eccellente
+5,63,media,6.2,medio,sufficiente
+6,68,media,6.6,medio,buono
+2,42,bassa,4.6,basso,scarso
+11,94,alta,9.1,alto,eccellente
+4,57,bassa,5.4,basso,sufficiente
+8,78,media,7.8,medio,buono
+3,48,bassa,5.1,basso,scarso
+10,89,alta,8.6,alto,eccellente
+6,66,media,6.7,medio,buono

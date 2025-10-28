@@ -1,0 +1,17 @@
+@relation patients
+
+@attribute name string
+@attribute age numeric
+@attribute heartRate numeric
+@attribute bloodPressure numeric
+@attribute glucoseLevel numeric
+@attribute headache {yes,no}
+@attribute nausea {yes,no}
+@attribute fever {yes,no}
+@attribute diagnosis {influenza,ipertensione,diabete,nessuna}
+
+@data
+"Jeffrey",32,45,110,100,yes,no,yes,nessuna
+"Maria",60,75,150,95,no,no,no,ipertensione
+"Luca",35,90,130,105,yes,yes,no,influenza
+"Anna",50,70,140,180,no,no,no,diabete
