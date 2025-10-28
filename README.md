@@ -1,6 +1,6 @@
 # Progetti Java - RANDSTAD HR solution S.R.L.
 
-Benvenuto nel repository dei miei progetti Java e Web realizzati durante il corso presso Academy Rapido. Qui puoi visualizzare tutti i progetti in modo ordinato e chiaro.
+Benvenuto nel repository dei miei progetti Java e Web realizzati durante il corso di diritto mirato presso RANDSTAD HR solution S.R.L. . Qui puoi visualizzare tutti i progetti in modo ordinato e chiaro.
 
 ---
 
