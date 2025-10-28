@@ -6,70 +6,70 @@ Benvenuto nel repository dei miei progetti Java e Web realizzati durante il cors
 
 ## Progetti Java (**JLAI**)
 
-| Progetto | Descrizione | Link |
-|:--------:|:-----------|:----:|
-| **JLAI01** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI02** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI03** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI04** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI05** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI06** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI07** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI08** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI09** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI10** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI11** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI12** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI13** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI14** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI15** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI16** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI17** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI18** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI19** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI20** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI21** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI22** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI23** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI24** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI25** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI26** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI27** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI28** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI29** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI30** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI31** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI32** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI33** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI34** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI35** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI36** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI37** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI38** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI39** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI40** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI41** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI42** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI43** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI44** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI45** | Breve descrizione del progetto | [Scarica ZIP](#) |
-| **JLAI46** | Breve descrizione del progetto | [Scarica ZIP](#) |
+| Progetto | Link |
+|:--------:|:----:|
+| **JLAI01** | [Scarica ZIP](#) |
+| **JLAI02** | [Scarica ZIP](#) |
+| **JLAI03** | [Scarica ZIP](#) |
+| **JLAI04** | [Scarica ZIP](#) |
+| **JLAI05** | [Scarica ZIP](#) |
+| **JLAI06** | [Scarica ZIP](#) |
+| **JLAI07** | [Scarica ZIP](#) |
+| **JLAI08** | [Scarica ZIP](#) |
+| **JLAI09** | [Scarica ZIP](#) |
+| **JLAI10** | [Scarica ZIP](#) |
+| **JLAI11** | [Scarica ZIP](#) |
+| **JLAI12** | [Scarica ZIP](#) |
+| **JLAI13** | [Scarica ZIP](#) |
+| **JLAI14** | [Scarica ZIP](#) |
+| **JLAI15** | [Scarica ZIP](#) |
+| **JLAI16** | [Scarica ZIP](#) |
+| **JLAI17** | [Scarica ZIP](#) |
+| **JLAI18** | [Scarica ZIP](#) |
+| **JLAI19** | [Scarica ZIP](#) |
+| **JLAI20** | [Scarica ZIP](#) |
+| **JLAI21** | [Scarica ZIP](#) |
+| **JLAI22** | [Scarica ZIP](#) |
+| **JLAI23** | [Scarica ZIP](#) |
+| **JLAI24** | [Scarica ZIP](#) |
+| **JLAI25** | [Scarica ZIP](#) |
+| **JLAI26** | [Scarica ZIP](#) |
+| **JLAI27** | [Scarica ZIP](#) |
+| **JLAI28** | [Scarica ZIP](#) |
+| **JLAI29** | [Scarica ZIP](#) |
+| **JLAI30** | [Scarica ZIP](#) |
+| **JLAI31** | [Scarica ZIP](#) |
+| **JLAI32** | [Scarica ZIP](#) |
+| **JLAI33** | [Scarica ZIP](#) |
+| **JLAI34** | [Scarica ZIP](#) |
+| **JLAI35** | [Scarica ZIP](#) |
+| **JLAI36** | [Scarica ZIP](#) |
+| **JLAI37** | [Scarica ZIP](#) |
+| **JLAI38** | [Scarica ZIP](#) |
+| **JLAI39** | [Scarica ZIP](#) |
+| **JLAI40** | [Scarica ZIP](#) |
+| **JLAI41** | [Scarica ZIP](#) |
+| **JLAI42** | [Scarica ZIP](#) |
+| **JLAI43** | [Scarica ZIP](#) |
+| **JLAI44** | [Scarica ZIP](#) |
+| **JLAI45** | [Scarica ZIP](#) |
+| **JLAI46** | [Scarica ZIP](#) |
 
 ---
 
 ## Progetti Web (**JLWEB**)
 
-| Progetto | Descrizione | Link |
-|:--------:|:-----------|:----:|
-| **JLWEB01** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB02** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB03** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB04** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB05** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB06** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB07** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB08** | Breve descrizione del progetto web | [Scarica ZIP](#) |
-| **JLWEB09** | Breve descrizione del progetto web | [Scarica ZIP](#) |
+| Progetto | Link |
+|:--------:|:----:|
+| **JLWEB01** | [Scarica ZIP](#) |
+| **JLWEB02** | [Scarica ZIP](#) |
+| **JLWEB03** | [Scarica ZIP](#) |
+| **JLWEB04** | [Scarica ZIP](#) |
+| **JLWEB05** | [Scarica ZIP](#) |
+| **JLWEB06** | [Scarica ZIP](#) |
+| **JLWEB07** | [Scarica ZIP](#) |
+| **JLWEB08** | [Scarica ZIP](#) |
+| **JLWEB09** | [Scarica ZIP](#) |
 
 ---
 
